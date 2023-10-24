@@ -62930,7 +62930,7 @@ A.Qu.prototype={
 $0(){return B.bI.ow(window,u.j,"pdf")},
 $S:0}
 A.Qv.prototype={
-$1(a){return A.UZ(new A.iT(a.gn(a),B.fR[a.gbF(a)],B.fQ[a.gbF(a)],null),1)},
+$1(a){return A.UZ(new A.iT(a.gn(a),B.fQ[a.gbF(a)],B.fR[a.gbF(a)],null),1)},
 $S:390}
 A.B_.prototype={
 E(a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c="Montserrat",b=a1.I(t.w).f.a.b,a=$.jp,a0=$.fu
@@ -62967,7 +62967,7 @@ A.Qx.prototype={
 $0(){B.bI.ow(window,u.j,"pdf")},
 $S:0}
 A.Qy.prototype={
-$1(a){return new A.iT(a.gn(a),B.fR[a.gbF(a)],B.fQ[a.gbF(a)],null)},
+$1(a){return new A.iT(a.gn(a),B.fQ[a.gbF(a)],B.fR[a.gbF(a)],null)},
 $S:138}
 A.B0.prototype={
 E(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=null,a2="Montserrat",a3=t.w,a4=a6.I(a3).f.a.b,a5=a6.I(a3).f.a.a
@@ -63013,7 +63013,7 @@ A.QA.prototype={
 $0(){return B.bI.ow(window,u.j,"pdf")},
 $S:0}
 A.QB.prototype={
-$1(a){return new A.iT(a.gn(a),B.fR[a.gbF(a)],B.fQ[a.gbF(a)],null)},
+$1(a){return new A.iT(a.gn(a),B.fQ[a.gbF(a)],B.fR[a.gbF(a)],null)},
 $S:138}
 A.Cu.prototype={
 E(a){return B.Fk}}
@@ -66510,7 +66510,7 @@ B.m0=new A.lK("\nWhat I can do?",null)
 B.m1=new A.lK("\nGet in Touch",null)
 B.m2=new A.lL("Let's build something together :)\n\n",null)
 B.m3=new A.lL("Here are few samples of my previous work :)\n\n",null)
-B.m4=new A.lL("I may not be perfect but surely I'm of some use :)\n\n",null)
+B.m4=new A.lL('"Delivering Exceptional Services Tailored to Your Needs" :)\n\n',null)
 B.z_=new A.tn(null,null,null,null,null,null,null,null,null,null,null)
 B.m5=new A.k5(0,"uninitialized")
 B.z0=new A.k5(1,"initializingServices")
@@ -66741,6 +66741,7 @@ B.zF=new A.fe(5)
 B.zG=new A.fe(7)
 B.mn=new A.fe(8)
 B.mB=A.a(s([B.bT,B.zD,B.zE,B.y,B.aP,B.zF,B.au,B.zG,B.mn]),A.ag("w<fe>"))
+B.fQ=A.a(s(["https://itonline.pk/","https://wardaxmelia.com/","https://www.eudoraestore.com/","https://bagibag.com/"]),t.s)
 B.mC=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
 B.wX=new A.nO()
 B.uQ=new A.wy(1,"page")
@@ -66762,7 +66763,7 @@ B.b6=new A.cV(3,"linux")
 B.b7=new A.cV(5,"windows")
 B.B5=A.a(s([B.ay,B.b5,B.ac,B.b6,B.aS,B.b7]),t.r6)
 B.mE=A.a(s(["A E-commerce store build on a premium theme custom codes, CRM and full fledge easy to navigate.","A E-Commerce variety store with multiple pages and categories on a premium theme with high quailty content upload.","IT online E-Commerce store includes sidebar categories, landing page categories, wide header, custom logo, premium theme, and with SEO setup.","Bagi Bag a bag selling one product store build on premium theme a neat versatile and easy to navigate.","Showcases the products and pigments of Chemical industry company with a premium theme and a good niche look."]),t.s)
-B.fQ=A.a(s([60,70,30,70]),t.F)
+B.fR=A.a(s([60,70,30,70]),t.F)
 B.mF=A.a(s(["HOME","ABOUT","SERVICES","PROJECTS","CONTACT"]),t.s)
 B.mG=A.a(s(["Faisalabad, Pakistan","(+92) 322 7864335","mh5589730@gmail.com"]),t.s)
 B.mI=A.a(s([0.000022888183591973643,0.028561000304762274,0.05705195792956655,0.08538917797618413,0.11349556286812107,0.14129881694635613,0.16877157254923383,0.19581093511175632,0.22239649722992452,0.24843841866631658,0.2740024733220569,0.298967680744136,0.32333234658228116,0.34709556909569184,0.3702249257894571,0.39272483400399893,0.41456988647721615,0.43582889025419114,0.4564192786416,0.476410299013587,0.4957560715637827,0.5145493169954743,0.5327205670880077,0.5502846891191615,0.5673274324802855,0.583810881323224,0.5997478744397482,0.615194045299478,0.6301165005270208,0.6445484042257972,0.6585198219185201,0.6720397744233084,0.6850997688076114,0.6977281404741683,0.7099506591298411,0.7217749311525871,0.7331784038850426,0.7442308394229518,0.7549087205105974,0.7652471277371271,0.7752251637549381,0.7848768260203478,0.7942056937103814,0.8032299679689082,0.8119428702388629,0.8203713516576219,0.8285187880808974,0.8363794492831295,0.8439768562813565,0.851322799855549,0.8584111051351724,0.8652534074722162,0.8718525580962131,0.8782333271742155,0.8843892099362031,0.8903155590440985,0.8960465359221951,0.9015574505919048,0.9068736766459904,0.9119951682409297,0.9169321898723632,0.9216747065581234,0.9262420604674766,0.9306331858366086,0.9348476990715433,0.9389007110754832,0.9427903495057521,0.9465220679845756,0.9500943036519721,0.9535176728088761,0.9567898524767604,0.959924306623116,0.9629127700159108,0.9657622101750765,0.9684818726275105,0.9710676079044347,0.9735231939498,0.9758514437576309,0.9780599066560445,0.9801485715370128,0.9821149805689633,0.9839677526782791,0.9857085499421516,0.9873347811966005,0.9888547171706613,0.9902689443512227,0.9915771042095881,0.9927840651641069,0.9938913963715834,0.9948987305580712,0.9958114963810524,0.9966274782266875,0.997352148697352,0.9979848677523623,0.9985285021374979,0.9989844084453229,0.9993537595844986,0.999638729860106,0.9998403888004533,0.9999602810470701,1]),t.F)
@@ -66806,7 +66807,6 @@ B.mM=A.a(s(["Location","Phone","Email"]),t.s)
 B.kV=new A.r_(0,"named")
 B.N4=new A.r_(1,"anonymous")
 B.By=A.a(s([B.kV,B.N4]),A.ag("w<r_>"))
-B.fR=A.a(s(["https://itonline.pk/","https://wardaxmelia.com/","https://www.eudoraestore.com/","https://multicolor.com.pk/"]),t.s)
 B.wa=new A.lq("Age","20",null)
 B.mN=A.a(s([B.l2,B.wa]),t.p)
 B.fS=A.a(s(["assets/work/cui.png","assets/work/flutterIsl.png","assets/work/dsc.png","assets/work/st.png"]),t.s)
